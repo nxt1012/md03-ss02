@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbaac132-a2e9-4fb4-8f7f-a9fa4c221cf7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/bt1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/bt2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/bt3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/bt4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/bt5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/bt6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/bt7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/bt8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/th1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/th2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/th3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ra/th4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/bt2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/bt2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +44,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -69,13 +54,13 @@
       <recent name="ra.bt1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ra.bt8.Main">
-    <configuration name="ra.bt4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ra.bt4.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.bt2.Main" />
       <module name="ss02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ra.bt4.*" />
+          <option name="PATTERN" value="ra.bt2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ra.bt8.Main" />
         <item itemvalue="Application.ra.bt7.Main" />
         <item itemvalue="Application.ra.bt6.Main" />
         <item itemvalue="Application.ra.bt5.Main" />
-        <item itemvalue="Application.ra.bt4.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +140,8 @@
       <updated>1694772431206</updated>
       <workItem from="1694772432278" duration="752000" />
       <workItem from="1694924868138" duration="19000" />
-      <workItem from="1694929699588" duration="14349000" />
+      <workItem from="1694929699588" duration="15160000" />
+      <workItem from="1695173132834" duration="2077000" />
     </task>
     <servers />
   </component>
